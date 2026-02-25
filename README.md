@@ -3,7 +3,6 @@ An app that using AI to analyze your surrounding habitat to choose your availabl
 
 
 
-
 <!DOCTYPE html>
 <html lang="vi">
 <head>
